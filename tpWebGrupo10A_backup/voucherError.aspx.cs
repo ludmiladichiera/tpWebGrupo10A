@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace TpPromoWeb_equipo_10A
+namespace tpWebGrupo10A_backup
 {
     public partial class voucherError : System.Web.UI.Page
     {

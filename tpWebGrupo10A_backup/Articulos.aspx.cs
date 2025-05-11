@@ -7,9 +7,9 @@ using System.Web.UI.WebControls;
 using System.Xml.Linq;
 using Dominio;
 using Negocio;
-using tpWebGrupo10A_backup;
 
-namespace TpPromoWeb_equipo_10A
+
+namespace tpWebGrupo10A_backup
 {
     public partial class Articulos : System.Web.UI.Page
     {

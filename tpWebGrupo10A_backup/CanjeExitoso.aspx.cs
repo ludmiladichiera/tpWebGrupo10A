@@ -4,9 +4,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using negocio;
+using Negocio;
 
-namespace TpPromoWeb_equipo_10A
+namespace tpWebGrupo10A_backup
 {
 
     public partial class CanjeExitoso : System.Web.UI.Page
